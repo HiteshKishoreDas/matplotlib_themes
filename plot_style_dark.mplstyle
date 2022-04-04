@@ -119,7 +119,7 @@ lines.markersize:      10           # marker size, in points
 ## ***************************************************************************
 ## * BOXPLOT                                                                 *
 ## ***************************************************************************
-#boxplot.notch:       False
+#boxplot.notch:       True
 #boxplot.vertical:    True
 #boxplot.whiskers:    1.5
 #boxplot.bootstrap:   None
@@ -316,7 +316,7 @@ lines.markersize:      10           # marker size, in points
 ## Following are default face and edge colors, default tick sizes,
 ## default font sizes for tick labels, and so on.  See
 ## https://matplotlib.org/api/axes_api.html#module-matplotlib.axes
-# axes.facecolor:    white   # axes background color
+axes.facecolor:   "#2D2F34"  # axes background color
 #axes.edgecolor:     black   # axes edge color
 #axes.linewidth:     0.8     # edge line width
 #axes.grid:          False   # display grid or not
